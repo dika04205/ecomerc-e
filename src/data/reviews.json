@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rev_001",
+    "productId": "prod_001",
+    "userId": "user_admin",
+    "userName": "Admin",
+    "rating": 5,
+    "comment": "Absolutely incredible game! The dragon miniatures are breathtaking and the token quality is top-notch. Our group plays this every weekend.",
+    "createdAt": "2024-06-15T10:30:00.000Z"
+  },
+  {
+    "id": "rev_002",
+    "productId": "prod_013",
+    "userId": "user_admin",
+    "userName": "Admin",
+    "rating": 5,
+    "comment": "These dice are gorgeous. The nebula finish catches the light beautifully and they feel substantial in your hand. The velvet case is a nice touch.",
+    "createdAt": "2024-07-20T14:15:00.000Z"
+  }
+]
